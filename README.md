@@ -7,11 +7,6 @@
 
 > A personal project that I created to put my knowledge of Networking and Exception handling in Java.
 
-## Install
-
-```sh
-npm install
-```
 
 ## Run tests
 
@@ -23,7 +18,7 @@ You have to run the both the Client & Server (TODO)
 
 👤 **Nicolai K. Vatne**
 
-* Twitter: [@nickvatne](https://twitter.com/nickvatne)
+* Twitter: [@Nicolaivatne](https://twitter.com/Nicolaivatne)
 * Github: [@nickvatne](https://github.com/nickvatne)
 
 ## Show your support
@@ -31,4 +26,3 @@ You have to run the both the Client & Server (TODO)
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
