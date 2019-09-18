@@ -7,6 +7,11 @@ import java.net.Socket;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+/*
+ * Made by Nicolai V.
+ * Date: 19.08.2019
+ */
+
 class CrossHandling implements Runnable {
     private Socket socket;
     private String name;

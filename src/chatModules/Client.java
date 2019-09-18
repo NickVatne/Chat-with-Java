@@ -4,6 +4,11 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
 
+/*
+ * Made by Nicolai V.
+ * Date: 19.08.2019
+ */
+
 public class Client {
     private static final String host = "localhost";
     private static final int portNumber = 3434;

@@ -6,6 +6,11 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+/*
+ * Made by Nicolai V.
+ * Date: 19.08.2019
+ */
+
 public class ChatServer {
     private static final int portNumber = 3434;
     private int serverPort;

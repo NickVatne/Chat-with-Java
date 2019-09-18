@@ -5,6 +5,11 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+/*
+* Made by Nicolai V.
+* Date: 19.08.2019
+*/
+
 public class ClientUtils implements Runnable {
     private Socket socket;
     private PrintWriter clientO;
