@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Chat With Java 👋</h1>
 <p>
-  <a href="https://twitter.com/Nicolaivatne">
-    <img alt="Twitter: nickvatne" src="https://img.shields.io/twitter/follow/nickvatne.svg?style=social" target="_blank" />
+  <a href="https://twitter.com/NicolaiVatne">
+    <img alt="Twitter: Nicolaivatne" src="https://img.shields.io/twitter/follow/Nicolaivatne.svg?style=social" target="_blank" />
   </a>
 </p>
 
